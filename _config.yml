@@ -19,3 +19,5 @@ version:             17.07
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
